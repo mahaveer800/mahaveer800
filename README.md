@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kommodo.ai/i/0SlG2puLmpUMMQxH465x" width="130" height="130" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://kommodo.ai/i/0SlG2puLmpUMMQxH465x](https://plain-apac-prod-public.komododecks.com/202609/23/0SlG2puLmpUMMQxH465x/image.png" width="130" height="130" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
 <div align="center">
