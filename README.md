@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://kommodo.ai/i/0SlG2puLmpUMMQxH465x]](https://cdn.phototourl.com/member/2026-09-23-9a96ccfb-d4c1-4524-ae83-7d9b502b0d68.png)([https://plain-apac-prod-public.komododecks.com/202609/23/0SlG2puLmpUMMQxH465x/image.png](https://cdn.phototourl.com/member/2026-09-23-9a96ccfb-d4c1-4524-ae83-7d9b502b0d68.png)" width="130" height="130" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://cdn.phototourl.com/member/2026-09-23-9a96ccfb-d4c1-4524-ae83-7d9b502b0d68.png" width="130" height="130" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
 <div align="center">
